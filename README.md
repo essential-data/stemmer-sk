@@ -30,7 +30,7 @@ Najjednoduchší spôsob skompilovania je pomocou
 mvn package
 ```
 
-Jendoduché použitie
+Jednoduché použitie
 -------------------
 
 
