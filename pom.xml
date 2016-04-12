@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>sk.essentialdata.nlp</groupId>
-    <artifactId>slovak-stemmer</artifactId>
+    <artifactId>stemmer-sk</artifactId>
     <version>0.1.0.RELEASE</version>
 
     <properties>
