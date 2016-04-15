@@ -4,7 +4,7 @@ Stemmer so slovenskou podporou pre Lucene/SOLR
 Autorské práva
 --------------
 
-Copyright (c) 2016 Essential Data, s.r.o.
+Copyright (c) 2016 Essential Data, s.r.o. a Spracovanie textu na FIIT STU
 
 Toto dielo je možné používať v súlade s textami nasledujúcich licencií:
 
